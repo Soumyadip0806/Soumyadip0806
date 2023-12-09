@@ -38,5 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadip0806&" alt="soumyadip0806" /></p>
 
-### My Github Contributions 
-![Snake animation](https://github.com/Soumyadip0806/Soumyadip0806/blob/output/github-contribution-grid-snake.svg)
+
