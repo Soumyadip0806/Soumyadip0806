@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://soumyadipportfolio.netlify.app/](https://soumyadipportfolio.netlify.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **NLP, CV**
 
 - 📫 How to reach me **soumya50052pc@gmail.com**
 
