@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/soumyadip0806" target="blank"><img src="https://img.shields.io/twitter/follow/soumyadip0806?logo=twitter&style=for-the-badge" alt="soumyadip0806" /></a> </p>
 
-- 🔭 I’m currently working at **IIITH as an NLP Researcher **
+- 🔭 I’m currently working at **IIITH as an NLP Researcher**
 
 - 🌱 I’m currently learning **Dart, Flutter, mongoDb, Firebase, Deep Learning**
 
